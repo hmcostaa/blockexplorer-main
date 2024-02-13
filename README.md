@@ -7,7 +7,9 @@ By clicking in each one extra information will be displayed in an appropriate pa
 # How to run the project
 
 1. Download/Clone this repo into your computer
-2. Open the terminal at the root of the folder
-3. Run the command: npm start
+2. Create a .env file at the root of the folder
+3. Put your API keys in this file 
+4. Open the terminal at the root of the folder
+5. Run the command: npm start
 
 That's it. Hope you like and I encourage you to make it even better.
