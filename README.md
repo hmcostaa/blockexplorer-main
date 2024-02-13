@@ -8,6 +8,6 @@ By clicking in each one extra information will be displayed in an appropriate pa
 
 1. Download/Clone this repo into your computer
 2. Open the terminal at the root of the folder
-3. Run the commenad: npm start
+3. Run the command: npm start
 
 That's it. Hope you like and I encourage you to make it even better.
